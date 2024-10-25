@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish.",
+      "instructions": "Boil pasta. Fry pancetta. Mix eggs and cheese. Combine.",
+      "image": "carbonara.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Tikka Masala",
+      "description": "A popular Indian dish.",
+      "instructions": "Marinate chicken. Grill it. Prepare sauce. Combine and serve.",
+      "image": "tikka.jpg"
+    }
+  ]
+  
