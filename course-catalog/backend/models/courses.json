@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "React for Beginners",
+      "description": "Learn the basics of React.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Node.js Masterclass",
+      "description": "Advanced Node.js techniques.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
