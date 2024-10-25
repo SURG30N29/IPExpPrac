@@ -1,0 +1,53 @@
+/* App.css or Card.css */
+
+/* Container styles */
+.container {
+    max-width: 600px; /* Maximum width of the container */
+    margin: 0 auto; /* Centering the container */
+    padding: 16px; /* Inner padding for the container */
+  }
+  
+  /* General card styles */
+  .card {
+    background-color: #ffffff; /* Card background color */
+    border: 1px solid #e0e0e0; /* Card border color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 16px; /* Inner padding */
+    margin: 16px 0; /* Margin for spacing */
+    transition: transform 0.2s; /* Animation on hover */
+  }
+  
+  /* Hover effect */
+  .card:hover {
+    transform: translateY(-4px); /* Lift effect on hover */
+  }
+  
+  /* Card header style */
+  .card-header {
+    font-size: 1.5em; /* Header font size */
+    font-weight: bold; /* Bold text */
+    color: #333; /* Header text color */
+    margin-bottom: 8px; /* Space below header */
+  }
+  
+  /* Card body style */
+  .card-body {
+    font-size: 1em; /* Body font size */
+    color: #666; /* Body text color */
+  }
+  
+  /* Input styles */
+  input {
+    width: 100%; /* Full width for inputs */
+    padding: 10px; /* Inner padding */
+    margin: 8px 0; /* Spacing */
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 4px; /* Rounded corners */
+  }
+  
+  .error {
+    color: red; /* Error message color */
+    font-size: 0.9em; /* Smaller font for error message */
+  }
+  
